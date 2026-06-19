@@ -1,0 +1,6 @@
+{
+  "name": "Floral Studio Website",
+  "description": "An elegant, modern, animated floral studio showcase inspired by the luxury designs of Gray Harper. Features dark romantic florals, fluid animations, and custom wedding design showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
